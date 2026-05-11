@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated runtime artifacts
+erp_migration.db
+changelog.db
+rapport_qualite.html
+pam_mobilite.db
+pam_quality_report.html
+pam_changelog.db
+pam_alerts.json
+logs/
+
+# OS/editor metadata
+.DS_Store
+*.Zone.Identifier
+
+# Local material
+CC_SESSION_CONTEXT.md
+CV*.docx
+build_cv.py
+guide_power_bi.md

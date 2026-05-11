@@ -1,0 +1,13 @@
+﻿vehicule_id;immatriculation;capacite_assise;capacite_fauteuil;statut
+VEH-001;PM-101-IDF;4;0;Actif
+VEH-002;PM-102-IDF;4;1;Actif
+VEH-003;PM-103-IDF;5;2;Actif
+VEH-004;PM-104-IDF;4;2;Actif
+VEH-005;PM-105-IDF;4;2;Actif
+VEH-006;PM-106-IDF;5;0;Actif
+VEH-007;PM-107-IDF;4;2;Maintenance
+VEH-008;PM-108-IDF;4;1;Actif
+VEH-009;PM-109-IDF;4;2;Actif
+VEH-010;PM-110-IDF;5;1;Actif
+VEH-011;PM-111-IDF;4;1;Actif
+VEH-012;PM-112-IDF;4;1;Actif

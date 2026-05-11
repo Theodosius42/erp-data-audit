@@ -1,0 +1,53 @@
+﻿client_id;raison_sociale;statut_juridique;siret;adresse;code_postal;ville;telephone;email;secteur_activite;conditions_paiement;statut;date_creation_fiche;commercial_referent
+CLI-0028;Carlier Soudure EURL;EURL;98284873191987;150 rue Colbert;37230;Saint-Avertin;02 47 11 43 78;carlier@wanadoo.fr;Industrie;Comptant;Actif;2019-03-02;A. Robert
+CLI-0024;Perrin Informatique SCI;SCI;10783720785684;82 rue Bretonneau;37200;Loches;02 47 34 99 40;perrin@wanadoo.fr;BTP;30 jours fin de mois;Actif;2024-02-06;P. Martin
+CLI-0018;Blanc Énergie;EURL;27387209074766;141 rue Nationale;37270;Amboise;02 47 41 49 94;blanc@gmail.com;Services;;Actif;2020-02-02;S. Durand
+CLI-0033;Gauthier Nettoyage SCI;;15148351224576;47 rue Jean Jaurès;37210;Saint-Cyr-sur-Loire;02 47 44 13 33;gauthier@wanadoo.fr;Industrie;30 jours;Actif;2019-06-30;
+CLI-0047;Clement Peinture SA;SA;78313878394495;135 rue du Commerce;37230;Saint-Cyr-sur-Loire;02 47 86 20 49;clement@hotmail.fr;;60 jours;Actif;2018-11-20;S. Durand
+CLI-0022;Rousseau Imprimerie SCI;SCI;07857154294894;117 rue du Commerce;37250;Montlouis-sur-Loire;02 47 98 73 46;rousseau@gmail.com;Industrie;;Actif;2018-08-17;A. Robert
+CLI-0052;  Chevalier Électronique  ;SA;78677242344046;144 rue Grammont;37230;Loches;;;Énergie;;Actif;2023-01-02;P. Martin
+CLI-0048;  Arnaud Environnement  ;EURL;44152563374403;93 rue du Commerce;37500;Saint-Cyr-sur-Loire;02 47 12 51 31;arnaud@hotmail.fr;Services;30 jours fin de mois;Actif;2021-08-08;L. Bernard
+CLI-0002;Martin Logistique EURL;EURL;68570220212633;143 rue Victor Hugo;37250;Chinon;02 47 31 78 41;martin@hotmail.fr;Industrie;60 jours;Actif;2023-08-14;M. Petit
+CLI-0003;Lefebvre & Fils;SARL;98363942252583;120 rue Grammont;37250;Saint-Cyr-sur-Loire;02 47 24 29 90;lefebvre@wanadoo.fr;;;Actif;2021-03-16;P. Martin
+CLI-0015;André Consulting SCI;SCI;84243677899595;98 rue des Halles;37270;Fondettes;02 47 16 43 58;andre@outlook.com;Santé;30 jours;Actif;2024-04-30;
+CLI-0034;Barbier Sécurité SAS;;41339581700446;12 rue Victor Hugo;37500;Chinon;02 47 65 24 46;;Commerce;45 jours;Actif;2021-09-20;L. Bernard
+CLI-0027;Prevost Menuiserie EURL;EURL;92962567064927;149 rue Nationale;37000;Chambray-lès-Tours;02 47 94 97 27;prevost@hotmail.fr;Énergie;45 jours;Actif;2016-01-05;S. Durand
+CLI-0010;Bertrand Alimentaire SAS;SAS;35897921714197;118 rue Nationale;37270;Montlouis-sur-Loire;02 47 99 23 58;bertrand@hotmail.fr;Commerce;30 jours fin de mois;Actif;2023-12-02;L. Bernard
+CLI-0049;RENAULT PIÈCES AUTO;SCI;63646308392990;9 rue Nationale;37500;La Riche;;renault@outlook.com;Services;;Actif;2019-10-18;L. Bernard
+CLI-0025;Dumont Plasturgie SCI;SCI;18090189072630;59 rue du Commerce;37200;Saint-Avertin;02 47 72 79 14;dumont@wanadoo.fr;Services;30 jours fin de mois;Actif;2016-02-08;S. Durand
+CLI-0001;Dupont Industries;;22768040250165;92 rue Nationale;37230;Montlouis-sur-Loire;02 47 64 53 45;dupont@gmail.com;Services;30 jours fin de mois;Actif;2024-01-19;P. Martin
+CLI-0016;Leroy BTP SARL;;36767910116526;97 rue Colbert;37210;Chinon;02 47 30 49 23;leroy@wanadoo.fr;Commerce;30 jours;Actif;2017-03-23;
+CLI-0041;ROUSSEAU IMPRIMERIE SCI;SCI;21964721266084;117 rue du Commerce;37250;Montlouis-sur-Loire;02 47 98 73 46;rousseau@gmail.com;Industrie;;Actif;2024-06-13;A. Robert
+CLI-0037;Mathieu Plomberie;SCI;40326905359709;45 rue de la République;37230;La Riche;02 47 17 67 23;mathieu@wanadoo.fr;BTP;60 jours;Inactif;2019-11-29;L. Bernard
+CLI-0007;Michel Mécanique EURL;EURL;72677641207030;146 rue Victor Hugo;37200;Tours;02 47 20 33 18;michel@wanadoo.fr;Agroalimentaire;60 jours;Actif;2015-06-12;S. Durand
+CLI-0004;Moreau Transport SCI;SCI;73210779751685;;37000;Montlouis-sur-Loire;02 47 77 10 86;moreau@orange.fr;Santé;30 jours;Actif;2021-05-12;A. Robert
+CLI-0046;  Lemaire Isolation SAS  ;SAS;;33 rue des Halles;37100;TOURS;;lemaire@outlook.com;Transport;30 jours fin de mois;Inactif;2020-02-22;A. Robert
+CLI-0017;Mercier Automobile SASU;SASU;19734353881968;23 rue des Halles;37500;Saint-Cyr-sur-Loire;02 47 88 78 71;mercier@hotmail.fr;Énergie;60 jours;Actif;2017-09-25;P. Martin
+CLI-0042;Bertrand Alimentaire SAS ;SAS;35897921714197;118 rue Nationale;37270;Montlouis-sur-Loire;;;Commerce;30 jours fin de mois;Actif;2021-12-16;L. Bernard
+CLI-0026;Joly Cosmétique EURL;EURL;07231557108629;77 rue Colbert;37100;Fondettes;02 47 69 46 96;joly@free.fr;Énergie;30 jours fin de mois;Actif;2020-02-15;P. Martin
+CLI-0051;Doupont Industries;;22768040250165;92 rue Nationale;37230;Montlouis-sur-Loire;;;Services;30 jours fin de mois;Actif;2023-10-22;P. Martin
+CLI-0039;Morel Jardinerie;SA;91275575686511;115 rue Victor Hugo;37500;Chambray-lès-Tours;02 47 56 96 40;morel;Commerce;60 jours;Actif;2018-06-21;
+CLI-0030;Picard Surgelés Pro SASU;SASU;31184665072150;45 rue du Commerce;37170;Chinon;02 47 28 86 10;picard@orange.fr;Commerce;Comptant;Actif;2015-04-16;L. Bernard
+CLI-0031;Lemaire Isolation SAS;SAS;;33 rue des Halles;37100;TOURS;;lemaire@outlook.com;Transport;30 jours fin de mois;Inactif;2021-07-25;A. Robert
+CLI-0038;Clement Peinture SA;SA;35760062769835;135 rue du Commerce;37230;Saint-Cyr-sur-Loire;02 47 86 20 49;clement@hotmail.fr;;60 jours;Actif;2019-10-01;S. Durand
+CLI-0011;Roux Packaging SARL;SARL;26395919192147;138 rue Victor Hugo;3725;Saint-Cyr-sur-Loire;;;Agroalimentaire;;Actif;2015-10-14;P. Martin
+CLI-0020;Boyer Agroalimentaire SARL;SARL;61890254567392;;37100;Amboise;02 47 22 36 90;boyer@wanadoo.fr;Industrie;45 jours;Actif;2020-01-20;L. Bernard
+CLI-0050;BOYER AGROALIMENTAIRE SARL;SARL;67007335669375;;37100;Amboise;;boyer@wanadoo.fr;Industrie;45 jours;Actif;2021-02-15;L. Bernard
+CLI-0035;Arnaud Environnement;EURL;44152563374403;93 rue du Commerce;37500;Saint-Cyr-sur-Loire;02 47 12 51 31;arnaud@hotmail.fr;Services;30 jours fin de mois;Actif;2016-03-09;L. Bernard
+CLI-0036;Lambert Chauffage;EURL;70651739611211;83 rue Nationale;37500;Fondettes;02 47 84 67 97;lambert@hotmail.fr;Transport;Comptant;Actif;2015-10-07;P. Martin
+CLI-0044;Lefebvre & Fils;SARL;55953469207376;120 rue Grammont;37250;Saint-Cyr-sur-Loire;02 47 24 29 90;lefebvre@wanadoo.fr;;;Actif;2021-09-23;P. Martin
+CLI-0023;Masson Outillage;SA;5644021284;131 rue des Halles;37170;Amboise;02 47 24 69 25;;BTP;30 jours fin de mois;Actif;2020-05-30;S. Durand
+CLI-0021;Fontaine Recyclage EURL;EURL;46976694569801;;37210;Fondettes;02 47 69 98 48;fontaine@wanadoo.fr;Industrie;30 jours;Actif;2019-11-05;S. Durand
+CLI-0006;Simon Électrique;SAS;63480660781151;61 rue Jean Jaurès;37400;Saint-Pierre-des-Corps;02 47 80 22 16;simon@gmail.com;Industrie;45 jours;Actif;2020-05-25;M. Petit
+CLI-0043;David Constrouction SAS;SAS;26249804207627;33 rue de la République;37230;Loches;;;;60 jours;Inactif;2023-11-15;S. Durand
+CLI-0012;Vincent Textile EURL;EURL;63651637154832;86 rue du Commerce;37170;Fondettes;02 47 37 75 70;vincent@free.fr;Commerce;45 jours;Actif;2023-06-04;P. Martin
+CLI-0029;Renault Pièces Auto;SCI;08934193408146;9 rue Nationale;37500;La Riche;02 47 63 93 22;renault@outlook.com;Services;;Actif;2019-12-27;L. Bernard
+CLI-0005;Laurent Distribution;SCI;;61 rue des Halles;37000;Saint avertin;02 47 19 90 17;laurent@wanadoo.fr;Santé;45 jours;Inactif;2017-05-27;M. Petit
+CLI-0009;David Construction SAS;SAS;26249804207627;33 rue de la République;37230;Loches;;;;60 jours;Inactif;2023-12-05;S. Durand
+CLI-0008;Garcia Services SASU;SASU;;77 rue du Commerce;3740;Montlouis-sur-Loire;02 47 79 48 88;garcia@orange.fr;BTP;60 jours;Actif;2016-07-04;L. Bernard
+CLI-0013;Fournier Métallurgie SCI;SCI;04616426077141;114 rue de Bordeaux;37400; Tours;02 47 25 68 27;fournier@gmail.com;Santé;45 jours;Actif;2020-08-29;
+CLI-0032;Chevalier Électronique;SA;78677242344046;144 rue Grammont;37230;Loches;;;Énergie;;Actif;2016-05-15;P. Martin
+CLI-0045;Gouerin Pharmaceutique SARL;SARL;58174668074201;113 rue Nationale;37000;La Riche;02 47 26 91 72;;Services;30 jours;Actif;2023-10-13;M. Petit
+CLI-0019;Guerin Pharmaceutique SARL;SARL;9617257598;113 rue Nationale;37000;La Riche;02 47 26 91 72;guerin@gmail.com;Services;30 jours;Actif;2015-07-30;M. Petit
+CLI-0040;Legrand Câblage SA;SA;23598812685188;102 rue Grammont;37230;Loches;02 47 65 21 38;legrand@free.fr;Industrie;60 jours;Actif;2019-05-01;P. Martin
+CLI-0014;Girard Chimie;SA;26756202235126;148 rue Colbert;37500;Amboise;02 47 17 36 63;girard@outlook.com;Énergie;Comptant;Inactif;2018-12-11;

@@ -1,0 +1,301 @@
+{
+  "source": "regulation_temps_reel",
+  "events": [
+    {
+      "event_id": "EVT-0001",
+      "trajet_id": "TRJ-0058",
+      "timestamp": "2025-05-31 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-010"
+    },
+    {
+      "event_id": "EVT-0002",
+      "trajet_id": "TRJ-0014",
+      "timestamp": "2025-06-12 00:00",
+      "event_type": "retard",
+      "delay_minutes": 35,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0003",
+      "trajet_id": "TRJ-0029",
+      "timestamp": "2025-05-04 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0004",
+      "trajet_id": "TRJ-0075",
+      "timestamp": "2025-05-15 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0005",
+      "trajet_id": "TRJ-9963",
+      "timestamp": "2025-05-01 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0006",
+      "trajet_id": "TRJ-0073",
+      "timestamp": "2025-06-10 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0007",
+      "trajet_id": "TRJ-0042",
+      "timestamp": "2025-06-04 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-001"
+    },
+    {
+      "event_id": "EVT-0008",
+      "trajet_id": "TRJ-0043",
+      "timestamp": "2025-06-15 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-001"
+    },
+    {
+      "event_id": "EVT-0009",
+      "trajet_id": "TRJ-0053",
+      "timestamp": "2025-05-24 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-004"
+    },
+    {
+      "event_id": "EVT-0010",
+      "trajet_id": "TRJ-9972",
+      "timestamp": "2025-06-09 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-012"
+    },
+    {
+      "event_id": "EVT-0011",
+      "trajet_id": "TRJ-0019",
+      "timestamp": "2025-05-08 00:00",
+      "event_type": "retard",
+      "delay_minutes": 15,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0012",
+      "trajet_id": "TRJ-0062",
+      "timestamp": "2025-05-11 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-011"
+    },
+    {
+      "event_id": "EVT-0013",
+      "trajet_id": "TRJ-0032",
+      "timestamp": "2025-06-10 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0014",
+      "trajet_id": "TRJ-0061",
+      "timestamp": "2025-06-07 00:00",
+      "event_type": "retard",
+      "delay_minutes": -5,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0015",
+      "trajet_id": "TRJ-0002",
+      "timestamp": "2025-06-07 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0016",
+      "trajet_id": "TRJ-0055",
+      "timestamp": "2025-05-10 00:00",
+      "event_type": "retard",
+      "delay_minutes": 15,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0017",
+      "trajet_id": "TRJ-0010",
+      "timestamp": "2025-06-05 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0018",
+      "trajet_id": "TRJ-0071",
+      "timestamp": "2025-06-15 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0019",
+      "trajet_id": "TRJ-0032",
+      "timestamp": "2025-05-16 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0020",
+      "trajet_id": "TRJ-0035",
+      "timestamp": "2025-05-01 00:00",
+      "event_type": "retard",
+      "delay_minutes": 10,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0021",
+      "trajet_id": "TRJ-0068",
+      "timestamp": "2025-05-31 00:00",
+      "event_type": "retard",
+      "delay_minutes": 10,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0022",
+      "trajet_id": "TRJ-9164",
+      "timestamp": "2025-06-11 00:00",
+      "event_type": "retard",
+      "delay_minutes": 5,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0023",
+      "trajet_id": "TRJ-0051",
+      "timestamp": "2025-05-18 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0024",
+      "trajet_id": "TRJ-0999",
+      "timestamp": "2025-05-04 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-006"
+    },
+    {
+      "event_id": "EVT-0025",
+      "trajet_id": "TRJ-0069",
+      "timestamp": "2025-06-11 00:00",
+      "event_type": "retard",
+      "delay_minutes": 5,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0026",
+      "trajet_id": "TRJ-0048",
+      "timestamp": "2025-05-15 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0027",
+      "trajet_id": "TRJ-0038",
+      "timestamp": "2025-05-23 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0028",
+      "trajet_id": "TRJ-0028",
+      "timestamp": "2025-06-15 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0029",
+      "trajet_id": "TRJ-0077",
+      "timestamp": "2025-06-05 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0030",
+      "trajet_id": "TRJ-0005",
+      "timestamp": "2025-06-15 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-001"
+    },
+    {
+      "event_id": "EVT-0031",
+      "trajet_id": "TRJ-9778",
+      "timestamp": "2025-05-01 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0032",
+      "trajet_id": "TRJ-0029",
+      "timestamp": "2025-06-11 00:00",
+      "event_type": "no_show",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0033",
+      "trajet_id": "TRJ-0071",
+      "timestamp": "2025-05-29 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-005"
+    },
+    {
+      "event_id": "EVT-0034",
+      "trajet_id": "TRJ-0024",
+      "timestamp": "2025-05-21 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-011"
+    },
+    {
+      "event_id": "EVT-0035",
+      "trajet_id": "TRJ-0036",
+      "timestamp": "2025-05-15 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-001"
+    },
+    {
+      "event_id": "EVT-0036",
+      "trajet_id": "TRJ-9824",
+      "timestamp": "2025-05-31 00:00",
+      "event_type": "annulation",
+      "delay_minutes": 0,
+      "new_vehicle_id": ""
+    },
+    {
+      "event_id": "EVT-0037",
+      "trajet_id": "TRJ-9747",
+      "timestamp": "2025-06-03 00:00",
+      "event_type": "reaffectation",
+      "delay_minutes": 0,
+      "new_vehicle_id": "VEH-006"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿produit_id;designation;description;categorie;unite_vente;prix_unitaire_ht;statut;code_ean;date_derniere_maj
+PRD-0001;Boulon M8x30 inox;;Visserie;pièce;11.59;Actif;;2022-01-15
+PRD-0002;Écrou M8 inox;Écrou M8 inox;Visserie;pièce;75.68;Actif;3192952019266;2021-01-17
+PRD-0003;Tuyau PVC 50mm;Tuyau PVC 50mm;Plomberie;mètre;141.27;Actif;6858006567464;2023-04-01
+PRD-0004;Coude PVC 50mm;Coude PVC 50mm;Plomberie;pièce;37.11;Actif;6144318393375;2021-03-10
+PRD-0005;Câble H07V-U 2.5mm²;Câble H07V-U 2.5mm²;Électricité;mètre;40.49;Actif;3628135374543;2020-04-04
+PRD-0006;Disjoncteur 20A;;Électricité;pièce;68.86;Actif;;2023-02-26
+PRD-0007;Plaque BA13;Plaque BA13;Construction;pièce;98.31;Actif;4877345150572;2021-05-01
+PRD-0008;Rail R48;;Construction;mètre;56.29;Inactif;1640078518193;2024-05-28
+PRD-0009;Huile hydraulique 5L;Huile hydraulique 5L;Lubrifiants;bidon;45.24;Actif;7283695776049;2022-07-21
+PRD-0010;Graisse lithium 1kg;Graisse lithium 1kg;Lubrifiants;pot;25.99;Actif;1609103164798;2020-09-12
+PRD-0011;Joint torique 30mm;Joint torique 30mm;Étanchéité;pièce;84.35;Actif;9455686824922;2023-05-04
+PRD-0012;Filtre à air K47;Filtre à air K47;Filtration;pièce;103.69;Actif;9725583371090;2024-12-16
+PRD-0013;Roulement 6205;Roulement 6205;Mécanique;pièce;32.49;Actif;2172092213461;2021-10-08
+PRD-0014;Courroie trapézoïdale A68;Courroie trapézoïdale A68;Mécanique;pièce;131.82;Actif;3690557991819;2024-06-14
+PRD-0015;Peinture époxy 5L blanc;Peinture époxy 5L blanc;Peinture;pot;112.48;Actif;;2023-05-07
+PRD-0016;Diluant universel 5L;Diluant universel 5L;Peinture;bidon;147.46;Inactif;4984111421775;2022-03-02
+PRD-0017;Palette Europe 800x1200;Palette Europe 800x1200;Logistique;pièce;134.61;Actif;;2021-01-25
+PRD-0018;Film étirable 500mm;Film étirable 500mm;Logistique;rouleau;48.88;Actif;7937066013458;2023-06-27
+PRD-0019;Gant nitrile M (x100);Gant nitrile M (x100);EPI;boîte;141.13;Actif;4493797887657;2025-11-22
+PRD-0020;Lunettes de protection;Lunettes de protection;EPI;pièce;12.18;Actif;5513512505845;2025-02-14
+PRD-0021;Tube acier 40mm;Tube acier 40mm;;mètre;101.08;Actif;0204750894211;2024-09-17
+PRD-0022;Plaque alu 2mm;Plaque alu 2mm;Métallurgie;feuille;67.56;Actif;;2021-06-28
+PRD-0023;Solvant nettoyant 1L;Solvant nettoyant 1L;Chimie;flacon;27.18;Actif;2002655823297;2021-04-07
+PRD-0024;Adhésif industriel 50m;;Chimie;rouleau;92.43;Actif;0546820457719;2022-08-17
+PRD-0025;Connecteur RJ45 (x50);Connecteur RJ45 (x50);Informatique;sachet;48.18;Actif;3162309896449;2024-04-10
+PRD-0026;Câble Cat6 305m;Câble Cat6 305m;Informatique;bobine;62.74;Actif;4837895951226;2025-01-16

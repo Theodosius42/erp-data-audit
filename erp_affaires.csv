@@ -1,0 +1,121 @@
+﻿affaire_id;client_id;type_affaire;objet;date_debut;date_fin;montant_ht;statut;commercial_referent;date_creation
+AFF-0001;CLI-0022;Contrat cadre;Fourniture équipement annuel;2023-01-01;2023-08-14;56886.61;En cours;;2021-11-05
+AFF-0002;CLI-0004;Commande ponctuelle;Fourniture maintenance technique;2021-09-12;2021-10-27;28908.54;Annulée;M. Petit;2022-02-05
+AFF-0003;CLI-0019;Devis;Fourniture services spécifique;2021-08-02;2022-09-25;97483.84;En attente;P. Martin;2024-09-05
+AFF-0004;CLI-0007;Commande ponctuelle;Fourniture matériel standard;2025-02-15;2025-10-11;62382.56;Terminée;A. Robert;2024-02-05
+AFF-0005;CLI-0027;Appel d'offres;Fourniture services spécifique;2021-11-06;2022-07-29;125087.73;En attente;M. Petit;2021-04-20
+AFF-0006;CLI-0046;Contrat cadre;Fourniture maintenance industriel;2020-12-12;2021-06-03;73503.29;;P. Martin;2019-12-16
+AFF-0007;CLI-0051;Marché public;Fourniture pièces industriel;2020-10-08;2022-08-14;;;A. Robert;2024-10-31
+AFF-0008;CLI-0024;Devis;Fourniture pièces industriel;2020-01-14;2021-08-10;2271.72;En attente;A. Robert;2024-03-29
+AFF-0009;CLI-0034;Appel d'offres;Fourniture pièces spécifique;2020-08-07;2020-12-13;36524.84;En attente;P. Martin;2023-08-07
+AFF-0010;CLI-0031;Contrat cadre;Fourniture matériel spécifique;2023-03-03;2023-12-07;34265.66;En cours;M. Petit;2023-08-23
+AFF-0011;CLI-0033;Devis;Fourniture matériel annuel;2023-07-28;2023-09-05;12861.58;En attente;P. Martin;2021-12-28
+AFF-0012;CLI-0009;Devis;Fourniture maintenance industriel;2024-12-22;2026-08-24;7461.01;En attente;S. Durand;2022-12-10
+AFF-0013;CLI-0926;Appel d'offres;Fourniture équipement annuel;2023-04-17;2023-10-11;107050.35;En cours;S. Durand;2023-10-11
+AFF-0014;CLI-0035;Devis;Fourniture pièces industriel;2021-11-10;2023-01-07;21422.61;En cours;P. Martin;2024-04-25
+AFF-0015;CLI-0047;Contrat cadre;Fourniture pièces spécifique;2021-11-28;2023-09-08;143251.33;En attente;M. Petit;2021-12-21
+AFF-0016;CLI-0042;Appel d'offres;Fourniture équipement industriel;2022-06-03;2023-01-09;99270.45;;P. Martin;2022-06-02
+AFF-0017;CLI-0008;Contrat cadre;Fourniture pièces spécifique;2024-05-24;2026-04-03;58748.49;En cours;L. Bernard;2022-06-09
+AFF-0018;CLI-0022;Contrat cadre;Fourniture pièces annuel;2021-01-18;2022-05-04;83433.63;En cours;P. Martin;2023-01-19
+AFF-0019;CLI-0028;Devis;Fourniture maintenance technique;2021-08-20;2022-11-16;13162.58;Terminée;;2023-09-07
+AFF-0020;CLI-0016;Appel d'offres;Fourniture services industriel;2021-09-08;2022-07-09;9958.44;Annulée;L. Bernard;2022-03-27
+AFF-0021;CLI-0013;Contrat cadre;Fourniture services standard;2023-07-04;2024-12-22;29734.46;En attente;A. Robert;2023-09-04
+AFF-0022;CLI-0004;Commande ponctuelle;Fourniture pièces standard;2022-06-20;2023-06-27;123618.52;;A. Robert;2021-08-31
+AFF-0023;CLI-0034;Devis;Fourniture équipement standard;2025-05-29;2026-08-09;44071.5;Annulée;M. Petit;2022-07-23
+AFF-0024;CLI-0026;Devis;Fourniture matériel spécifique;2022-01-17;2022-06-12;30370.11;Terminée;;2021-10-06
+AFF-0025;CLI-0041;Commande ponctuelle;Fourniture pièces technique;2024-08-29;2024-12-07;119450.7;Annulée;L. Bernard;2021-02-21
+AFF-0026;CLI-0040;Devis;Fourniture services annuel;2022-02-11;2022-05-27;89891.11;;P. Martin;2023-06-12
+AFF-0027;CLI-0014;Commande ponctuelle;Fourniture maintenance industriel;2023-01-04;2024-10-03;13204.8;En attente;A. Robert;2023-11-23
+AFF-0028;CLI-0004;Devis;Fourniture maintenance annuel;2025-05-31;2026-09-13;15241.68;;S. Durand;2024-05-30
+AFF-0029;CLI-0031;Marché public;Fourniture matériel standard;2024-04-30;2026-04-25;75319.63;En cours;M. Petit;2020-05-17
+AFF-0030;CLI-0013;Appel d'offres;Fourniture services industriel;2020-10-17;2021-11-07;68572.23;Annulée;M. Petit;2024-06-27
+AFF-0031;CLI-0037;Commande ponctuelle;Fourniture maintenance technique;2020-08-26;2020-04-01;51790.15;Terminée;A. Robert;2021-03-17
+AFF-0032;CLI-0039;Marché public;Fourniture matériel annuel;2025-05-16;2026-10-01;61054.59;Annulée;S. Durand;2024-06-15
+AFF-0033;CLI-0042;Devis;Fourniture matériel annuel;2020-01-10;2020-09-15;112972.66;En cours;S. Durand;2023-07-08
+AFF-0034;CLI-0031;Devis;Fourniture services annuel;2020-08-21;2021-06-15;73677.85;En attente;M. Petit;2020-09-10
+AFF-0035;CLI-0031;Devis;Fourniture matériel technique;2023-06-18;2024-01-10;106045.26;;L. Bernard;2020-09-25
+AFF-0036;CLI-0048;Devis;Fourniture services spécifique;2021-01-09;2022-02-25;76868.32;Terminée;S. Durand;2024-11-14
+AFF-0037;CLI-0009;Commande ponctuelle;Fourniture équipement standard;2025-02-25;2027-01-16;26398.6;En attente;M. Petit;2020-01-06
+AFF-0038;CLI-0028;Marché public;Fourniture services spécifique;2022-09-19;2023-03-07;57899.65;Annulée;;2024-05-23
+AFF-0039;CLI-0022;Devis;Fourniture pièces technique;2023-03-03;2023-05-03;;Terminée;M. Petit;2024-12-19
+AFF-0040;CLI-0048;Contrat cadre;Fourniture services annuel;2023-03-18;2023-08-11;81694.37;;S. Durand;2024-03-07
+AFF-0041;CLI-0012;Contrat cadre;Fourniture services industriel;2024-03-18;2024-12-26;149897.24;En attente;S. Durand;2021-10-07
+AFF-0042;CLI-0023;Commande ponctuelle;Fourniture équipement technique;2023-11-12;2024-12-05;91734.14;;P. Martin;2023-05-07
+AFF-0043;CLI-0021;Devis;Fourniture matériel technique;2023-01-08;2023-07-29;105756.04;En attente;M. Petit;2020-01-29
+AFF-0044;CLI-0012;Marché public;Fourniture équipement annuel;2020-09-16;2021-02-28;106853.53;Annulée;;2022-06-05
+AFF-0045;CLI-0042;Appel d'offres;Fourniture pièces spécifique;2022-07-14;2022-10-29;132078.7;;M. Petit;2023-01-31
+AFF-0046;CLI-0019;Contrat cadre;Fourniture maintenance spécifique;2024-09-30;2025-02-02;69038.16;En attente;S. Durand;2024-03-25
+AFF-0047;CLI-0011;Marché public;Fourniture pièces industriel;2021-07-03;2022-06-28;50994.4;;P. Martin;2020-07-12
+AFF-0048;CLI-0031;Commande ponctuelle;Fourniture équipement standard;2020-02-03;2020-07-09;24118.54;Annulée;S. Durand;2022-06-27
+AFF-0049;CLI-0017;Appel d'offres;Fourniture équipement spécifique;2021-05-27;2021-09-18;135618.14;Annulée;;2020-06-08
+AFF-0050;CLI-0028;Contrat cadre;Fourniture matériel standard;2021-03-13;2022-08-13;89255.08;Annulée;P. Martin;2024-02-24
+AFF-0051;CLI-0038;Appel d'offres;Fourniture pièces technique;2020-05-25;2021-02-13;109749.13;En attente;M. Petit;2020-11-27
+AFF-0052;CLI-0005;Appel d'offres;Fourniture équipement technique;2020-10-19;2021-01-27;1766.97;Annulée;M. Petit;2024-05-17
+AFF-0053;CLI-0022;Marché public;Fourniture pièces technique;2025-01-10;2025-05-22;18912.0;En attente;S. Durand;2022-07-09
+AFF-0054;CLI-0025;Appel d'offres;Fourniture équipement annuel;2023-02-07;2024-11-13;91335.17;En cours;A. Robert;2025-02-16
+AFF-0055;CLI-0026;Marché public;Fourniture matériel technique;2021-08-28;2023-07-20;134737.93;Annulée;M. Petit;2020-03-17
+AFF-0056;CLI-0028;Devis;Fourniture équipement spécifique;2022-01-09;2022-12-29;129191.69;En attente;P. Martin;2019-08-08
+AFF-0057;CLI-0028;Appel d'offres;Fourniture maintenance spécifique;2022-02-25;2021-06-20;9540.09;;M. Petit;2023-12-04
+AFF-0058;CLI-0035;Commande ponctuelle;Fourniture maintenance standard;2023-01-06;2024-10-27;12997.76;Terminée;M. Petit;2020-02-26
+AFF-0059;CLI-0039;Devis;Fourniture maintenance industriel;2024-02-03;2024-11-03;13388.81;Annulée;L. Bernard;2021-05-20
+AFF-0060;CLI-0008;Commande ponctuelle;Fourniture pièces technique;2020-10-08;2020-11-18;142975.92;En attente;;2022-06-05
+AFF-0061;CLI-0048;Devis;Fourniture matériel spécifique;2024-04-28;2024-06-27;64684.02;En attente;M. Petit;2025-02-21
+AFF-0062;CLI-0011;Contrat cadre;Fourniture équipement annuel;2024-10-25;2026-06-27;24017.84;;P. Martin;2019-11-28
+AFF-0063;CLI-0028;Devis;Fourniture services technique;2021-05-15;2021-07-31;57755.43;En cours;L. Bernard;2022-03-13
+AFF-0064;CLI-0013;Commande ponctuelle;Fourniture équipement annuel;2021-10-17;2022-08-20;85944.63;En cours;P. Martin;2023-11-29
+AFF-0065;CLI-0959;Contrat cadre;Fourniture pièces technique;2024-11-08;2025-09-23;46949.32;Annulée;L. Bernard;2022-10-27
+AFF-0066;CLI-0025;Devis;Fourniture équipement technique;2022-08-08;2023-09-19;74257.42;Terminée;P. Martin;2024-01-05
+AFF-0067;CLI-0969;Marché public;Fourniture pièces industriel;2021-12-10;2023-10-22;131641.19;En cours;S. Durand;2022-01-31
+AFF-0068;CLI-0033;Marché public;Fourniture pièces spécifique;2020-10-18;2021-08-30;138230.52;;;2020-05-13
+AFF-0069;CLI-0020;Commande ponctuelle;Fourniture équipement standard;2020-09-30;2022-08-13;11687.16;Annulée;L. Bernard;2022-12-12
+AFF-0070;CLI-0026;Commande ponctuelle;Fourniture maintenance industriel;2023-12-06;2024-12-04;41157.4;Terminée;S. Durand;2020-08-06
+AFF-0071;CLI-0031;Appel d'offres;Fourniture services standard;2021-10-05;2022-12-25;54063.97;Annulée;P. Martin;2020-06-05
+AFF-0072;CLI-0005;Commande ponctuelle;Fourniture pièces spécifique;2023-06-24;2021-09-15;125470.75;En cours;A. Robert;2019-12-18
+AFF-0073;CLI-0001;Commande ponctuelle;Fourniture matériel spécifique;2025-03-02;2024-08-06;60956.64;;P. Martin;2020-12-24
+AFF-0074;CLI-0033;Devis;Fourniture maintenance standard;2024-08-27;2025-05-11;123639.18;En cours;P. Martin;2019-08-29
+AFF-0075;CLI-0027;Contrat cadre;Fourniture matériel spécifique;2025-01-22;2026-12-14;19754.34;En attente;P. Martin;2021-04-19
+AFF-0076;CLI-0039;Commande ponctuelle;Fourniture équipement standard;2024-08-09;2025-10-17;57718.05;En attente;L. Bernard;2024-05-31
+AFF-0077;CLI-0018;Marché public;Fourniture matériel industriel;2023-06-11;2025-04-05;97268.12;;L. Bernard;2023-09-16
+AFF-0078;CLI-0027;Marché public;Fourniture pièces spécifique;2023-08-09;2025-02-27;149116.05;En cours;A. Robert;2024-11-06
+AFF-0079;CLI-0044;Contrat cadre;Fourniture pièces industriel;2022-10-25;2023-10-19;27382.47;Terminée;M. Petit;2023-06-04
+AFF-0080;CLI-0049;Commande ponctuelle;Fourniture maintenance spécifique;2020-11-22;2021-04-03;36552.34;En cours;L. Bernard;2021-05-12
+AFF-0081;CLI-0023;Devis;Fourniture équipement annuel;2021-10-13;2022-11-14;4716.88;;S. Durand;2024-12-07
+AFF-0082;CLI-0034;Marché public;Fourniture matériel standard;2022-10-01;2022-12-08;35277.19;;A. Robert;2021-09-03
+AFF-0083;CLI-0004;Commande ponctuelle;Fourniture maintenance technique;2024-01-08;2024-08-06;126720.47;En cours;P. Martin;2025-04-25
+AFF-0084;CLI-0047;Commande ponctuelle;Fourniture services spécifique;2022-02-04;2024-01-13;15604.31;Terminée;;2022-12-21
+AFF-0085;CLI-0036;Marché public;Fourniture pièces standard;2023-11-21;2025-09-09;33873.96;Terminée;S. Durand;2021-05-28
+AFF-0086;CLI-0009;Commande ponctuelle;Fourniture maintenance standard;2025-04-26;2027-01-02;149145.33;En cours;A. Robert;2021-11-21
+AFF-0087;CLI-0052;Commande ponctuelle;Fourniture matériel standard;2025-04-02;2026-09-22;111928.83;En attente;M. Petit;2019-07-17
+AFF-0088;CLI-0025;Marché public;Fourniture services spécifique;2023-11-20;2024-02-27;118159.49;En cours;S. Durand;2024-01-21
+AFF-0089;CLI-0042;Commande ponctuelle;Fourniture équipement spécifique;2021-12-20;2023-08-01;124406.64;;P. Martin;2019-10-15
+AFF-0090;CLI-0007;Devis;Fourniture matériel standard;2021-06-18;2021-11-02;25930.73;En cours;A. Robert;2024-10-29
+AFF-0091;CLI-0039;Appel d'offres;Fourniture équipement technique;2025-04-14;2027-03-14;133518.11;En cours;M. Petit;2022-05-22
+AFF-0092;CLI-0037;Contrat cadre;Fourniture pièces industriel;2021-09-06;2021-05-01;85979.59;Terminée;M. Petit;2020-05-24
+AFF-0093;CLI-0029;Contrat cadre;Fourniture services industriel;2023-07-04;2025-04-08;14999.54;En attente;L. Bernard;2023-11-15
+AFF-0094;CLI-0029;Appel d'offres;Fourniture équipement spécifique;2021-06-26;2021-10-27;58435.3;Annulée;P. Martin;2022-05-14
+AFF-0095;CLI-0001;Contrat cadre;Fourniture pièces annuel;2021-04-08;2022-02-07;23094.04;En cours;M. Petit;2021-12-18
+AFF-0096;CLI-0042;Devis;Fourniture équipement spécifique;2024-08-03;2026-02-19;80559.4;Annulée;L. Bernard;2020-04-19
+AFF-0097;CLI-0008;Commande ponctuelle;Fourniture matériel spécifique;2020-03-12;2021-09-07;77764.2;;S. Durand;2021-04-15
+AFF-0098;CLI-0014;Commande ponctuelle;Fourniture maintenance standard;2021-07-07;2021-01-29;12216.09;Terminée;L. Bernard;2020-03-01
+AFF-0099;CLI-0036;Devis;Fourniture maintenance annuel;2022-03-24;2023-11-09;41792.02;En cours;M. Petit;2020-09-03
+AFF-0100;CLI-0003;Devis;Fourniture matériel standard;2023-03-06;2024-11-27;144742.33;En cours;A. Robert;2023-04-09
+AFF-0101;CLI-0001;Marché public;Fourniture équipement annuel;2022-02-23;2024-01-24;;En attente;A. Robert;2023-12-02
+AFF-0102;CLI-0942;Contrat cadre;Fourniture pièces standard;2024-08-14;2023-11-15;71545.12;En attente;L. Bernard;2022-07-23
+AFF-0103;CLI-0009;Appel d'offres;Fourniture pièces spécifique;2023-11-03;2024-03-12;34579.63;Annulée;A. Robert;2020-05-31
+AFF-0104;CLI-0010;Devis;Fourniture équipement industriel;2025-02-13;2026-05-05;114044.25;En cours;L. Bernard;2025-02-04
+AFF-0105;CLI-0019;Contrat cadre;Fourniture équipement industriel;2024-10-09;2026-04-28;4827.75;Terminée;M. Petit;2019-12-25
+AFF-0106;CLI-0008;Contrat cadre;Fourniture équipement standard;2021-02-11;2021-12-18;69900.66;En cours;M. Petit;2024-06-01
+AFF-0107;CLI-0038;Appel d'offres;Fourniture matériel spécifique;2023-04-16;2024-11-30;24945.29;En cours;P. Martin;2021-03-29
+AFF-0108;CLI-0019;Marché public;Fourniture maintenance industriel;2025-05-30;2026-02-03;97283.29;En attente;;2019-07-07
+AFF-0109;CLI-0002;Appel d'offres;Fourniture services spécifique;2023-08-18;2024-03-12;1765.33;En attente;L. Bernard;2024-07-24
+AFF-0110;CLI-0031;Devis;Fourniture pièces annuel;2021-09-10;2023-09-03;93729.11;En cours;;2022-08-01
+AFF-0111;CLI-0052;Appel d'offres;Fourniture pièces technique;2022-09-13;2022-12-17;41834.25;En attente;S. Durand;2025-03-19
+AFF-0112;CLI-0033;Marché public;Fourniture pièces standard;2024-07-07;2026-04-12;48278.07;En cours;M. Petit;2023-12-14
+AFF-0113;CLI-0018;Marché public;Fourniture pièces annuel;2023-04-09;2024-12-14;51803.47;;L. Bernard;2021-04-27
+AFF-0114;CLI-0036;Commande ponctuelle;Fourniture pièces industriel;2021-01-05;2021-12-01;19627.65;;S. Durand;2023-05-26
+AFF-0115;CLI-0037;Marché public;Fourniture matériel annuel;2022-05-11;2023-05-15;88042.82;En cours;A. Robert;2020-03-18
+AFF-0116;CLI-0027;Commande ponctuelle;Fourniture équipement technique;2022-10-21;2023-03-22;57559.55;En cours;L. Bernard;2024-01-02
+AFF-0117;CLI-0031;Commande ponctuelle;Fourniture pièces industriel;2020-10-20;2021-10-08;27463.34;En attente;P. Martin;2024-06-25
+AFF-0118;CLI-0045;Commande ponctuelle;Fourniture maintenance spécifique;2024-05-03;2024-11-21;24186.05;En cours;;2024-03-24
+AFF-0119;CLI-0038;Appel d'offres;Fourniture maintenance technique;2022-03-30;2022-02-24;30312.43;En cours;P. Martin;2019-06-17
+AFF-0120;CLI-0025;Commande ponctuelle;Fourniture matériel industriel;2021-04-08;2022-04-25;15854.88;En attente;L. Bernard;2022-09-04
