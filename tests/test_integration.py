@@ -40,7 +40,7 @@ class TestIngestion:
         df = ingest_source("clients_csv")
         assert len(df) > 0
         assert "client_id" in df.columns
-        assert df.dtypes.eq("object").all()
+        assert all(pd.api.types.is_string_dtype(dt) for dt in df.dtypes)
 
     def test_all_csv_sources_loadable(self):
         for source in ["clients_csv", "produits_csv", "affaires_csv", "tarifs_csv"]:
